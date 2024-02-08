@@ -1,3 +1,4 @@
+#compose
 services:
   web-app:
     build:
